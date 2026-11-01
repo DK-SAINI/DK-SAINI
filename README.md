@@ -46,53 +46,43 @@ I'm an **Odoo Developer with 5 years of experience** building and customizing ER
 
 ---
 
-## 📦 Odoo Apps I've Worked With
+## 📦 Odoo Functional Coverage
 
-<div align="center">
-
-![Sales](https://img.shields.io/badge/Sales-714B67?style=flat-square&logo=odoo&logoColor=white)
-![Purchase](https://img.shields.io/badge/Purchase-714B67?style=flat-square&logo=odoo&logoColor=white)
-![Inventory](https://img.shields.io/badge/Inventory-714B67?style=flat-square&logo=odoo&logoColor=white)
-![Accounting](https://img.shields.io/badge/Accounting-714B67?style=flat-square&logo=odoo&logoColor=white)
-![CRM](https://img.shields.io/badge/CRM-714B67?style=flat-square&logo=odoo&logoColor=white)
-![HR](https://img.shields.io/badge/HR-714B67?style=flat-square&logo=odoo&logoColor=white)
-![Manufacturing](https://img.shields.io/badge/Manufacturing-714B67?style=flat-square&logo=odoo&logoColor=white)
-![POS](https://img.shields.io/badge/POS-714B67?style=flat-square&logo=odoo&logoColor=white)
-![Website](https://img.shields.io/badge/Website-714B67?style=flat-square&logo=odoo&logoColor=white)
-![eCommerce](https://img.shields.io/badge/eCommerce-714B67?style=flat-square&logo=odoo&logoColor=white)
-
-</div>
-
----
+| Business Area | Odoo Apps |
+|:--|:--|
+| **Sales & Customer Management** | ![Sales](https://img.shields.io/badge/Sales-714B67?style=flat-square&logo=odoo&logoColor=white) ![CRM](https://img.shields.io/badge/CRM-714B67?style=flat-square&logo=odoo&logoColor=white) |
+| **Supply Chain & Production** | ![Purchase](https://img.shields.io/badge/Purchase-714B67?style=flat-square&logo=odoo&logoColor=white) ![Inventory](https://img.shields.io/badge/Inventory-714B67?style=flat-square&logo=odoo&logoColor=white) ![Manufacturing](https://img.shields.io/badge/Manufacturing-714B67?style=flat-square&logo=odoo&logoColor=white) |
+| **Finance** | ![Accounting](https://img.shields.io/badge/Accounting-714B67?style=flat-square&logo=odoo&logoColor=white) |
+| **Human Resources** | ![HR](https://img.shields.io/badge/HR-714B67?style=flat-square&logo=odoo&logoColor=white) |
+| **Retail & Digital Commerce** | ![POS](https://img.shields.io/badge/POS-714B67?style=flat-square&logo=odoo&logoColor=white) ![Website](https://img.shields.io/badge/Website-714B67?style=flat-square&logo=odoo&logoColor=white) ![eCommerce](https://img.shields.io/badge/eCommerce-714B67?style=flat-square&logo=odoo&logoColor=white) |
 
 ## 💻 Tech Stack
 
 <div align="center">
 
-**Core**
+A focused toolset for building, integrating and deploying scalable Odoo solutions.
 
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+</div>
 
-**Frontend**
+<br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![OWL](https://img.shields.io/badge/OWL-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+| Category | Technologies |
+|:--|:--|
+| **ERP Platform & Backend** | ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
+| **Frontend & UI** | ![OWL](https://img.shields.io/badge/OWL-714B67?style=for-the-badge&logo=odoo&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **DevOps & Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
+| **Integration & Automation** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-714B67?style=for-the-badge) |
 
-**DevOps and Tools**
+<br/>
 
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div align="center">
 
-**Automation and AI**
+**🌱 Currently exploring**
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI%20Integration-714B67?style=flat-square)
+![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-714B67?style=flat-square)
+![Advanced Odoo](https://img.shields.io/badge/Advanced%20Odoo%20Development-714B67?style=flat-square)
 
 </div>
 
@@ -134,27 +124,86 @@ flowchart LR
 
 ---
 
-## 🛒 My Odoo Apps on the Odoo Apps Store
+## 🛒 My Published Odoo Apps
 
 <div align="center">
 
-<a href="https://apps.odoo.com/apps/modules/browse?search=dheeraj"><img src="https://img.shields.io/badge/View%20All%20My%20Apps-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo Apps Store"/></a>
+<br/>
+
+![Apps](https://img.shields.io/badge/Published%20Apps-3-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Version](https://img.shields.io/badge/Built%20for-Odoo%2019.0-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-AI%20%C2%B7%20eCommerce%20%C2%B7%20Productivity-714B67?style=for-the-badge)
+
+<br/>
+
+<table>
+  <!-- ============ APP 1 ============ -->
+  <tr>
+    <td width="26%" valign="middle" align="center">
+      <h3>🤖<br/>MCP Server</h3>
+      <img src="https://img.shields.io/badge/Odoo-19.0-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo 19.0"/><br/>
+      <img src="https://img.shields.io/badge/Category-AI%20Integration-0A66C2?style=flat-square" alt="AI Integration"/>
+    </td>
+    <td width="74%" valign="top" align="left">
+      <h4>Connect AI assistants to your Odoo ERP</h4>
+      <ul>
+        <li>🔌 Bring AI assistants into your Odoo workflows</li>
+        <li>🧠 Designed for modern AI-driven automation</li>
+        <li>⚙️ Built and tested for Odoo 19.0</li>
+      </ul>
+      <a href="https://apps.odoo.com/apps/modules/19.0/mcp_server_ai"><img src="https://img.shields.io/badge/View%20on%20Apps%20Store-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="View MCP Server"/></a>
+      <a href="mailto:dk.odootech@gmail.com?subject=MCP%20Server%20Support"><img src="https://img.shields.io/badge/Ask%20a%20Question-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Ask a question"/></a>
+    </td>
+  </tr>
+
+  <!-- ============ APP 2 ============ -->
+  <tr>
+    <td width="26%" valign="middle" align="center">
+      <h3>🛍️<br/>CPQ eCommerce</h3>
+      <img src="https://img.shields.io/badge/Odoo-18.0%20%7C%2019.0-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo 18.0 and 19.0"/><br/>
+      <img src="https://img.shields.io/badge/Category-eCommerce%20%C2%B7%20BOM-2E7D32?style=flat-square" alt="eCommerce and BOM"/><br/>
+      <img src="https://img.shields.io/badge/License-LGPL--3-blue?style=flat-square" alt="LGPL-3"/>
+    </td>
+    <td width="74%" valign="top" align="left">
+      <h4>Guided product configuration for the Odoo webshop</h4>
+      <ul>
+        <li>🧩 Dynamic components with required and optional items</li>
+        <li>🎛️ Compatible variant selection inside the configurator</li>
+        <li>💲 Live pricing as the customer configures</li>
+        <li>🏭 Automatic BOM generation linked to sales, inventory and manufacturing</li>
+      </ul>
+      <a href="https://apps.odoo.com/apps/modules/19.0/dk_cpq_ecommerce"><img src="https://img.shields.io/badge/View%20on%20Apps%20Store-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="View CPQ eCommerce"/></a>
+      <a href="mailto:dk.odootech@gmail.com?subject=CPQ%20eCommerce%20Support"><img src="https://img.shields.io/badge/Ask%20a%20Question-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Ask a question"/></a>
+    </td>
+  </tr>
+
+  <!-- ============ APP 3 ============ -->
+  <tr>
+    <td width="26%" valign="middle" align="center">
+      <h3>🧮<br/>Multi Product Selector</h3>
+      <img src="https://img.shields.io/badge/Odoo-19.0-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo 19.0"/><br/>
+      <img src="https://img.shields.io/badge/Category-Productivity%20%C2%B7%20UI-E65100?style=flat-square" alt="Productivity and UI"/>
+    </td>
+    <td width="74%" valign="top" align="left">
+      <h4>Select multiple products at once in a single One2many field</h4>
+      <ul>
+        <li>⚡ Pick many products in one action</li>
+        <li>📋 Works directly inside the One2many line field</li>
+        <li>⚙️ Built and tested for Odoo 19.0</li>
+      </ul>
+      <a href="YOUR_APP_3_URL"><img src="https://img.shields.io/badge/View%20on%20Apps%20Store-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="View Multi Product Selector"/></a>
+      <a href="mailto:dk.odootech@gmail.com?subject=Multi%20Product%20Selector%20Support"><img src="https://img.shields.io/badge/Ask%20a%20Question-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Ask a question"/></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<a href="https://apps.odoo.com/apps/modules/browse?search=dheeraj"><img src="https://img.shields.io/badge/Browse%20All%20My%20Apps-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Browse all apps"/></a>
+
+<sub>💬 Need a custom Odoo module or integration? <a href="mailto:dk.odootech@gmail.com">Let's talk</a>.</sub>
 
 </div>
-
-| App | Odoo Version | What it does | Link |
-|---|---|---|---|
-| **MCP Server** | 19.0 | Connect AI Assistants to Odoo ERP | [Explore](https://apps.odoo.com/apps/modules/19.0/mcp_server_ai) |
-| **CPQ eCommerce** | 19.0 | Configure webshop products with dynamic components, real-time pricing, and automatic BOM generation.  | [Explore](YOUR_APP_2_URL) |
-| **Multi Product Selector** | 19.0 | Seamlessly select multiple products in a single One2many field. | [Explore](YOUR_APP_3_URL) |
-
----
-
-## 🌐 Portfolio
-
-<div align="center">
-
-<a href="https://dheerajkumar.odoo.com/"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-714B67?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
